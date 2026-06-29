@@ -43,7 +43,7 @@ pip3 install gradio
 
 1. Navegue até a pasta do jogo:
 ```bash
-cd /home/andre/programas/python-games
+cd python-games
 ```
 
 2. Execute o jogo com Python 3:
